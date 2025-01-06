@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    background-color: rgb(44, 157, 223);
+    color: white;
+    border-radius: 6px;
+    border: none;
+}
+input:hover{
+    color: aquamarine;
+}

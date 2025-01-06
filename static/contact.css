@@ -1,0 +1,28 @@
+form{
+
+    background-color: #cf7a0a; 
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    width: 100%;
+    max-width: 500px;
+    position: relative;
+    left: 650px;
+    color: white;
+    
+}
+form h3 {
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+    font-size: medium;
+    
+}
+textarea{
+    border-radius: 9px;
+}
+
+
